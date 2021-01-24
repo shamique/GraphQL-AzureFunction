@@ -1,0 +1,13 @@
+{
+  "name": "graphql-function",
+  "version": "",
+  "description": "",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "@azure/cosmos": "^3.9.3",
+    "apollo-server-azure-functions": "^2.19.1"
+  }
+}
